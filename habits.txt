@@ -4,3 +4,4 @@ habit 3: kod by som mal spravit funkcny, jednoduchy a mal by som si davat pozor 
 habit 4: je potrebne sa na svoju pracu sustredit bez toho, aby ma niekto alebo nieco rozptylovalo, takze si vyhradim cas na "prestavky" na riesenie inych veci v time
 habit 5: je potrebne sa nadalej vzdelavat a nenechat sa odradit ani "ucivom", ktore je nam neprijemne (vediet vystupit zo svojej komfortnej zony).
 habit 6: je potrebne v time spolupracovat a komunikovat spolu, ale nie zase sa spoliehat na inych, ze to spravia za mna, ale debatovat o problemoch a moznych rieseniach
+habit 7: je potrebne si zvyknut, ze budem sa musiet spolahnut aj sam na seba a riesit vela casu sam a hlavne sa z toho nezblaznit
