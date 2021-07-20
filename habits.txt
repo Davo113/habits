@@ -1,3 +1,4 @@
 habit 1: asi by som si mal vybavit multisport permanentku
 habit 2: je potrebne sa sustredit na ciel a neskvor dodatocne riesit ostatne zmeny a nie sa na zaciatku zdrziavat menej podstatnou castou programu
 habit 3: kod by som mal spravit funkcny, jednoduchy a mal by som si davat pozor na rozne komplikovane "features" roznych technologii, ktore by mohli zmiast ostatnych programatorov a zdrziavali by ich
+habit 4: je potrebne sa na svoju pracu sustredit bez toho, aby ma niekto alebo nieco rozptylovalo, takze si vyhradim cas na "prestavky" na riesenie inych veci v time
